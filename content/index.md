@@ -10,8 +10,14 @@
 
 # ClearDashboard Installer - Version 1.2.0.18
 
-<button onclick="window.location.href='https://github.com/Clear-Bible/CLEAR_External_Releases/raw/main/Files/ClearDashboard_1.2.0.18.exe';">Download Installer</button>
+#### Windows 64-Bit Version
+<button onclick="window.location.href='https://github.com/Clear-Bible/CLEAR_External_Releases/raw/main/Files/ClearDashboard_1.2.0.18.exe';">Download Installer x64</button>
 <br/>
+
+#### Windows ARM64-Bit Version for Mac M1/M2/M3 Version
+<button onclick="window.location.href='https://github.com/Clear-Bible/CLEAR_External_Releases/raw/main/Files/ClearDashboard_ARM64.exe';">Download Installer ARM64</button>
+<br/>
+
 <hr />
 
 # Clear Dashboard User Feedback Portal

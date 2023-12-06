@@ -10,7 +10,7 @@
 
 # ClearDashboard Installer - Version 1.2.0.18
 
-#### Windows 64-Bit Version
+#### Windows Version (64-bit) Most Common
 <button onclick="window.location.href='https://github.com/Clear-Bible/CLEAR_External_Releases/raw/main/Files/ClearDashboard_1.2.0.18.exe';">Download Installer x64</button>
 <br/>
 

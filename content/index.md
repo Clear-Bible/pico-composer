@@ -14,10 +14,6 @@
 <button onclick="window.location.href='https://github.com/Clear-Bible/CLEAR_External_Releases/raw/main/Latest/ClearDashboard.exe';">Download Installer x64</button>
 <br/>
 
-#### Windows ARM64-Bit Version for Mac M1/M2/M3 Version
-<button onclick="window.location.href='https://github.com/Clear-Bible/CLEAR_External_Releases/raw/main/Latest/ClearDashboard_ARM64.exe';">Download Installer ARM64</button>
-<br/>
-
 <hr />
 
 # Clear Dashboard User Feedback Portal

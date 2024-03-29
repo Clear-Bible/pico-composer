@@ -8,9 +8,10 @@
 }
 </style>
 
-# ClearDashboard Installer - Version 1.3.0.7
+# ClearDashboard Installer - Version 1.4.0.15
 
 #### Windows Version (64-bit) Most Common
+
 <button onclick="window.location.href='https://github.com/Clear-Bible/CLEAR_External_Releases/raw/main/Latest/ClearDashboard.exe';">Download Installer x64</button>
 <br/>
 
@@ -19,7 +20,6 @@
 # Clear Dashboard User Feedback Portal
 
 <a href="https://clearbible.atlassian.net/servicedesk/customer/portal/2">https://clearbible.atlassian.net/servicedesk/customer/portal/2</a>
-
 
 # Gettings Started Videos
 
@@ -42,7 +42,6 @@
 </video>
 <p><a href="../assets/ExecIntro.mp4">Executive Intro</a></p>
 </div>
-
 
 <div class="center">
 <iframe id="BasicSetup" src="https://player.vimeo.com/video/837799574" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

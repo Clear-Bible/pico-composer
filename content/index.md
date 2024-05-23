@@ -8,7 +8,7 @@
 }
 </style>
 
-# ClearDashboard Installer - Version 1.4.0.15
+# ClearDashboard Installer - Latest Version
 
 #### Windows Version (64-bit) Most Common
 

@@ -17,6 +17,13 @@
 
 <hr />
 
+# Obtain a Dashboard License
+
+Send an email to <dashboard@biblica.com> with the following information:
+- first name
+- last name
+- your missions organization 
+
 # Clear Dashboard User Feedback Portal
 
 <a href="https://clearbible.atlassian.net/servicedesk/customer/portal/2">https://clearbible.atlassian.net/servicedesk/customer/portal/2</a>

@@ -17,12 +17,24 @@
 
 <hr />
 
-# Obtain a Dashboard License
+# Self-Service Registration
 
-Send an email to <dashboard@biblica.com> with the following information:
-- first name
-- last name
-- your missions organization 
+Upon opening ClearDashboard for the first time, enter your:
+
+- Organization
+- First name
+- Last name
+- Email
+- Paratext Username
+
+If you already have a license key then:
+
+- If you've already registered it on your machine then select "Choose from Existing Licenses"
+- If you haven't registered it on your machine then enter it into the License Key box (and all the other required information into their boxes too)
+
+### Unable to Make a License?
+
+Send an email to <dashboard@biblica.com> with the information listed above.
 
 # Clear Dashboard User Feedback Portal
 
